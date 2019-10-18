@@ -1,0 +1,11 @@
+C:\Users\weiba\source\repos\PigDice\PigDice\bin\Debug\netcoreapp3.0\PigDice.exe
+C:\Users\weiba\source\repos\PigDice\PigDice\bin\Debug\netcoreapp3.0\PigDice.deps.json
+C:\Users\weiba\source\repos\PigDice\PigDice\bin\Debug\netcoreapp3.0\PigDice.runtimeconfig.json
+C:\Users\weiba\source\repos\PigDice\PigDice\bin\Debug\netcoreapp3.0\PigDice.runtimeconfig.dev.json
+C:\Users\weiba\source\repos\PigDice\PigDice\bin\Debug\netcoreapp3.0\PigDice.dll
+C:\Users\weiba\source\repos\PigDice\PigDice\bin\Debug\netcoreapp3.0\PigDice.pdb
+C:\Users\weiba\source\repos\PigDice\PigDice\obj\Debug\netcoreapp3.0\PigDice.csprojAssemblyReference.cache
+C:\Users\weiba\source\repos\PigDice\PigDice\obj\Debug\netcoreapp3.0\PigDice.AssemblyInfoInputs.cache
+C:\Users\weiba\source\repos\PigDice\PigDice\obj\Debug\netcoreapp3.0\PigDice.AssemblyInfo.cs
+C:\Users\weiba\source\repos\PigDice\PigDice\obj\Debug\netcoreapp3.0\PigDice.dll
+C:\Users\weiba\source\repos\PigDice\PigDice\obj\Debug\netcoreapp3.0\PigDice.pdb
